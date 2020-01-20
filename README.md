@@ -14,9 +14,9 @@ we can also have *_italic and bold_*
 * item
 
 ### ordered list
-* item
-* item 
-* item
+1. item
+2. item 
+3. item
 
 ### images 
 we have an images:
@@ -25,3 +25,8 @@ we have an images:
 
 #### hyperlinks this is a demo for a course at [Training Dragon](https://trainingdragon.co.uk)
 
+### code demo
+
+```javascript
+const foo = bar =>...bat;
+```
