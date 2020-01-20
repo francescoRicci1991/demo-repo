@@ -28,5 +28,5 @@ we have an images:
 ### code demo
 
 ```javascript
-const foo = bar =>...bat;
+const foo = bar =>...bar;
 ```
