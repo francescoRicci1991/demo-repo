@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# private logs and settings
+private.txt
+private.*

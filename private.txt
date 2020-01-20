@@ -1,0 +1,3 @@
+this is my private settings file
+something new
+some more content
